@@ -5,4 +5,4 @@ Implements code for small area prediction of general parameters under informativ
 * Main program to implement simulation with beta prime weight model and standard bootstrap (Section 3.2.2): sampledareasinformativelogisticbetaprimemodifiedboot.R
 * Main program to implement simulation with beta prime weight model and modified bootstrap (Section 3.2.1): sampledareasinformativelogisticbetaprimemodifiedboot.R
 * Gather output to compare three methods and modified bootstrap: getoutputsampledareascompare3methodsToPost.R
-* 
+* Gather output for modified bootstrap: getoutputsampledareasstandardboot1.R
